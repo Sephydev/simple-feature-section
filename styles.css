@@ -34,5 +34,6 @@ header p {
 /* MAIN */
 
 section p {
+  display: inline-block;
   background-color: #FCEED8;
 }

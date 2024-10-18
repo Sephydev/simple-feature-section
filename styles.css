@@ -37,4 +37,5 @@ section p {
   display: inline-block;
   background-color: #FCEED8;
   border-radius: 100%;
+  font-size: 1.25rem;
 }

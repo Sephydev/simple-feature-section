@@ -44,4 +44,5 @@ section p {
 section {
   background-color: #212936;
   border-radius: 1rem;
+  padding : 0 1.5rem;
 }

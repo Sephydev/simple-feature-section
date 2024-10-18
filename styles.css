@@ -36,4 +36,5 @@ header p {
 section p {
   display: inline-block;
   background-color: #FCEED8;
+  border-radius: 100%;
 }

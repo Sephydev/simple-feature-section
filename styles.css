@@ -7,7 +7,6 @@
 body {
   background-image: url("./assets/images/Background_image.svg");
   background-color: #121826;
-  padding: 0 6rem;
   font-family: "Outfit";
   font-size: 1rem;
   font-weight: 400;
@@ -24,6 +23,8 @@ h1 {
 
 header {
   text-align: center;
+  width: 25rem;
+  margin: 0 auto;
 }
 
 /* MAIN */
@@ -39,7 +40,7 @@ h1, section {
 main {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4rem;
+  /* padding: 0 4rem; */
   margin-bottom: 3rem;
 }
 

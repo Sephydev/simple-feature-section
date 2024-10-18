@@ -20,7 +20,6 @@ h1 {
   font-weight: 600;
   font-size: 2.5rem;
   color: #E5E7EB;
-  margin-top: 3rem;
 }
 
 header {
@@ -31,6 +30,10 @@ header {
 
 h2, section p, img, header p {
   margin-top: 1rem;
+}
+
+h1, section {
+  margin-top: 3rem;
 }
 
 main {

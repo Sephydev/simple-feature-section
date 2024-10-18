@@ -37,6 +37,8 @@ h1, section {
 }
 
 main {
+  display: flex;
+  flex-wrap: wrap;
   padding: 0 4rem;
   margin-bottom: 3rem;
 }

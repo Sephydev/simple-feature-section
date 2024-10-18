@@ -11,6 +11,7 @@ body {
   font-family: "Outfit";
   font-size: 1rem;
   font-weight: 400;
+  color: #9DA3AE;
 }
 
 /* HEADER */
@@ -27,7 +28,6 @@ header {
 }
 
 header p {
-  color: #9DA3AE;
   margin-top: 1rem;
 }
 

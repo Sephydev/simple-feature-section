@@ -40,3 +40,7 @@ section p {
   font-size: 1.25rem;
   padding: 0.75rem;
 }
+
+section {
+  background-color: #212936;
+}

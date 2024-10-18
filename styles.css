@@ -30,3 +30,9 @@ header p {
   color: #9DA3AE;
   margin-top: 1rem;
 }
+
+/* MAIN */
+
+section p {
+  background-color: #FCEED8;
+}

@@ -76,6 +76,10 @@ section {
   width: 20rem;
 }
 
+section:hover {
+  background-color: #424969;
+}
+
 h2 {
   color: #E5E7EB;
   font-weight: 600;

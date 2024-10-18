@@ -32,6 +32,9 @@ header p {
 }
 
 /* MAIN */
+main {
+  padding: 0 4rem;
+}
 
 section p {
   display: inline-block;

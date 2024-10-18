@@ -18,3 +18,8 @@ h1 {
   text-align: center;
   margin-top: 3rem;
 }
+
+header p {
+  color: #9DA3AE;
+  font-family: "Outfit";
+}

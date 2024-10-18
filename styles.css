@@ -75,3 +75,7 @@ img {
   border-radius: 0.75rem;
   margin-bottom: 1.25rem;
 }
+
+section p {
+  margin-right: 2.5rem;
+}

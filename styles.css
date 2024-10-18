@@ -13,6 +13,8 @@ body {
   font-weight: 400;
 }
 
+/* HEADER */
+
 h1 {
   font-weight: 600;
   font-size: 2.5rem;
@@ -26,4 +28,5 @@ header {
 
 header p {
   color: #9DA3AE;
+  margin-top: 1rem;
 }
